@@ -1,0 +1,27 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Take a Break";
+}
+
+<div class="full-height-container">
+    <div class="bg-gloss-gray-900 octocat-container text-center">
+        <img src="~/images/octocat.png" class="img-fluid" id="octocat-logo" alt="Octocat Logo" />
+    </div>
+    <div class="container py-5">
+        <div class="row text-center pb-5">
+            <div class="col-12 text-white">
+                <h1>Take a Break</h1>
+            </div>
+        </div>
+        <div class="row text-center pb-5 justify-content-center">
+            <div class="col-8 text-white">
+                <p class="lead">This open-source application will help you provide beautiful countdown screens for various breaks in virtual trainings and workshops.</p>
+            </div>
+        </div>
+        <div class="row text-center">
+            <div class="col-12 text-white">
+                <a href="@Url.Action("GoToSettings", "Home")" class="btn btn-light btn-lg">Get Started</a>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,42 @@
+﻿@keyframes floating {
+    0% {
+        transform: translate(0, 0px);
+    }
+
+    50% {
+        transform: translate(-15px, 15px);
+    }
+
+    100% {
+        transform: translate(0px, 0px);
+    }
+}
+
+.octocat-container {
+    background-image: url("../images/background.jpg"); /* Đường dẫn tới background image */
+    background-size: cover;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+
+    .octocat-container img {
+        animation-name: floating;
+        animation-duration: 3s;
+        animation-iteration-count: infinite;
+        animation-timing-function: ease-in-out;
+        width: 200px;
+    }
+
+.bg-gloss-gray-900 {
+    --tw-bg-opacity: 1;
+    background-color: rgba(27, 31, 36, var(--tw-bg-opacity));
+}
+
+.container.py-5 {
+    background-color: black; /* Màu nền đen */
+    color: white; /* Văn bản màu trắng để dễ đọc hơn */
+    max-width: 1500px;
+}
+.full-height-container {
+    min-height: calc(100vh - 72px);
+}

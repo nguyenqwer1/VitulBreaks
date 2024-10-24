@@ -1,0 +1,207 @@
+D:\project .net\VitualBreaks\bin\Debug\net6.0\appsettings.Development.json
+D:\project .net\VitualBreaks\bin\Debug\net6.0\appsettings.json
+D:\project .net\VitualBreaks\bin\Debug\net6.0\package-lock.json
+D:\project .net\VitualBreaks\bin\Debug\net6.0\package.json
+D:\project .net\VitualBreaks\bin\Debug\net6.0\VitualBreaks.staticwebassets.runtime.json
+D:\project .net\VitualBreaks\bin\Debug\net6.0\VitualBreaks.exe
+D:\project .net\VitualBreaks\bin\Debug\net6.0\VitualBreaks.deps.json
+D:\project .net\VitualBreaks\bin\Debug\net6.0\VitualBreaks.runtimeconfig.json
+D:\project .net\VitualBreaks\bin\Debug\net6.0\VitualBreaks.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\VitualBreaks.pdb
+D:\project .net\VitualBreaks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\project .net\VitualBreaks\obj\Debug\net6.0\VitualBreaks.csproj.AssemblyReference.cache
+D:\project .net\VitualBreaks\obj\Debug\net6.0\VitualBreaks.GeneratedMSBuildEditorConfig.editorconfig
+D:\project .net\VitualBreaks\obj\Debug\net6.0\VitualBreaks.AssemblyInfoInputs.cache
+D:\project .net\VitualBreaks\obj\Debug\net6.0\VitualBreaks.AssemblyInfo.cs
+D:\project .net\VitualBreaks\obj\Debug\net6.0\VitualBreaks.csproj.CoreCompileInputs.cache
+D:\project .net\VitualBreaks\obj\Debug\net6.0\VitualBreaks.MvcApplicationPartsAssemblyInfo.cache
+D:\project .net\VitualBreaks\obj\Debug\net6.0\VitualBreaks.RazorAssemblyInfo.cache
+D:\project .net\VitualBreaks\obj\Debug\net6.0\VitualBreaks.RazorAssemblyInfo.cs
+D:\project .net\VitualBreaks\obj\Debug\net6.0\staticwebassets.build.json
+D:\project .net\VitualBreaks\obj\Debug\net6.0\staticwebassets.development.json
+D:\project .net\VitualBreaks\obj\Debug\net6.0\staticwebassets\msbuild.VitualBreaks.Microsoft.AspNetCore.StaticWebAssets.props
+D:\project .net\VitualBreaks\obj\Debug\net6.0\staticwebassets\msbuild.build.VitualBreaks.props
+D:\project .net\VitualBreaks\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VitualBreaks.props
+D:\project .net\VitualBreaks\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VitualBreaks.props
+D:\project .net\VitualBreaks\obj\Debug\net6.0\staticwebassets.pack.json
+D:\project .net\VitualBreaks\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\project .net\VitualBreaks\obj\Debug\net6.0\scopedcss\bundle\VitualBreaks.styles.css
+D:\project .net\VitualBreaks\obj\Debug\net6.0\scopedcss\projectbundle\VitualBreaks.bundle.scp.css
+D:\project .net\VitualBreaks\obj\Debug\net6.0\VitualBr.C439EBD0.Up2Date
+D:\project .net\VitualBreaks\obj\Debug\net6.0\VitualBreaks.dll
+D:\project .net\VitualBreaks\obj\Debug\net6.0\refint\VitualBreaks.dll
+D:\project .net\VitualBreaks\obj\Debug\net6.0\VitualBreaks.pdb
+D:\project .net\VitualBreaks\obj\Debug\net6.0\VitualBreaks.genruntimeconfig.cache
+D:\project .net\VitualBreaks\obj\Debug\net6.0\ref\VitualBreaks.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\QRCoder.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\zxing.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\VitualBreaks\bin\Debug\net6.0\appsettings.Development.json
+D:\VitualBreaks\bin\Debug\net6.0\package-lock.json
+D:\VitualBreaks\bin\Debug\net6.0\package.json
+D:\VitualBreaks\bin\Debug\net6.0\appsettings.json
+D:\VitualBreaks\bin\Debug\net6.0\VitualBreaks.staticwebassets.runtime.json
+D:\VitualBreaks\bin\Debug\net6.0\VitualBreaks.exe
+D:\VitualBreaks\bin\Debug\net6.0\VitualBreaks.deps.json
+D:\VitualBreaks\bin\Debug\net6.0\VitualBreaks.runtimeconfig.json
+D:\VitualBreaks\bin\Debug\net6.0\VitualBreaks.dll
+D:\VitualBreaks\bin\Debug\net6.0\VitualBreaks.pdb
+D:\VitualBreaks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\VitualBreaks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VitualBreaks\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VitualBreaks\bin\Debug\net6.0\QRCoder.dll
+D:\VitualBreaks\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\VitualBreaks\bin\Debug\net6.0\zxing.dll
+D:\VitualBreaks\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VitualBreaks\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\VitualBreaks\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\VitualBreaks\obj\Debug\net6.0\VitualBreaks.csproj.AssemblyReference.cache
+D:\VitualBreaks\obj\Debug\net6.0\VitualBreaks.GeneratedMSBuildEditorConfig.editorconfig
+D:\VitualBreaks\obj\Debug\net6.0\VitualBreaks.AssemblyInfoInputs.cache
+D:\VitualBreaks\obj\Debug\net6.0\VitualBreaks.AssemblyInfo.cs
+D:\VitualBreaks\obj\Debug\net6.0\VitualBreaks.csproj.CoreCompileInputs.cache
+D:\VitualBreaks\obj\Debug\net6.0\VitualBreaks.MvcApplicationPartsAssemblyInfo.cache
+D:\VitualBreaks\obj\Debug\net6.0\VitualBreaks.RazorAssemblyInfo.cache
+D:\VitualBreaks\obj\Debug\net6.0\VitualBreaks.RazorAssemblyInfo.cs
+D:\VitualBreaks\obj\Debug\net6.0\staticwebassets.build.json
+D:\VitualBreaks\obj\Debug\net6.0\staticwebassets.development.json
+D:\VitualBreaks\obj\Debug\net6.0\staticwebassets\msbuild.VitualBreaks.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VitualBreaks\obj\Debug\net6.0\staticwebassets\msbuild.build.VitualBreaks.props
+D:\VitualBreaks\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VitualBreaks.props
+D:\VitualBreaks\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VitualBreaks.props
+D:\VitualBreaks\obj\Debug\net6.0\staticwebassets.pack.json
+D:\VitualBreaks\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\VitualBreaks\obj\Debug\net6.0\scopedcss\bundle\VitualBreaks.styles.css
+D:\VitualBreaks\obj\Debug\net6.0\scopedcss\projectbundle\VitualBreaks.bundle.scp.css
+D:\VitualBreaks\obj\Debug\net6.0\VitualBr.C439EBD0.Up2Date
+D:\VitualBreaks\obj\Debug\net6.0\VitualBreaks.dll
+D:\VitualBreaks\obj\Debug\net6.0\refint\VitualBreaks.dll
+D:\VitualBreaks\obj\Debug\net6.0\VitualBreaks.pdb
+D:\VitualBreaks\obj\Debug\net6.0\VitualBreaks.genruntimeconfig.cache
+D:\VitualBreaks\obj\Debug\net6.0\ref\VitualBreaks.dll
+D:\VitualBreaks\bin\Debug\net6.0\Humanizer.dll
+D:\VitualBreaks\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\VitualBreaks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VitualBreaks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VitualBreaks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VitualBreaks\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\VitualBreaks\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VitualBreaks\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\VitualBreaks\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\VitualBreaks\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VitualBreaks\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\VitualBreaks\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\VitualBreaks\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VitualBreaks\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\VitualBreaks\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VitualBreaks\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\VitualBreaks\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\VitualBreaks\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VitualBreaks\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VitualBreaks\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VitualBreaks\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VitualBreaks\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VitualBreaks\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VitualBreaks\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VitualBreaks\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VitualBreaks\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\appsettings.Development.json
+E:\.net\VitualBreaks\bin\Debug\net6.0\appsettings.json
+E:\.net\VitualBreaks\bin\Debug\net6.0\package-lock.json
+E:\.net\VitualBreaks\bin\Debug\net6.0\package.json
+E:\.net\VitualBreaks\bin\Debug\net6.0\VitualBreaks.staticwebassets.runtime.json
+E:\.net\VitualBreaks\bin\Debug\net6.0\VitualBreaks.exe
+E:\.net\VitualBreaks\bin\Debug\net6.0\VitualBreaks.deps.json
+E:\.net\VitualBreaks\bin\Debug\net6.0\VitualBreaks.runtimeconfig.json
+E:\.net\VitualBreaks\bin\Debug\net6.0\VitualBreaks.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\VitualBreaks.pdb
+E:\.net\VitualBreaks\bin\Debug\net6.0\Humanizer.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\QRCoder.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\zxing.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\.net\VitualBreaks\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\.net\VitualBreaks\obj\Debug\net6.0\VitualBreaks.csproj.AssemblyReference.cache
+E:\.net\VitualBreaks\obj\Debug\net6.0\VitualBreaks.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\VitualBreaks\obj\Debug\net6.0\VitualBreaks.AssemblyInfoInputs.cache
+E:\.net\VitualBreaks\obj\Debug\net6.0\VitualBreaks.AssemblyInfo.cs
+E:\.net\VitualBreaks\obj\Debug\net6.0\VitualBreaks.csproj.CoreCompileInputs.cache
+E:\.net\VitualBreaks\obj\Debug\net6.0\VitualBreaks.MvcApplicationPartsAssemblyInfo.cache
+E:\.net\VitualBreaks\obj\Debug\net6.0\VitualBreaks.RazorAssemblyInfo.cache
+E:\.net\VitualBreaks\obj\Debug\net6.0\VitualBreaks.RazorAssemblyInfo.cs
+E:\.net\VitualBreaks\obj\Debug\net6.0\staticwebassets.build.json
+E:\.net\VitualBreaks\obj\Debug\net6.0\staticwebassets.development.json
+E:\.net\VitualBreaks\obj\Debug\net6.0\staticwebassets\msbuild.VitualBreaks.Microsoft.AspNetCore.StaticWebAssets.props
+E:\.net\VitualBreaks\obj\Debug\net6.0\staticwebassets\msbuild.build.VitualBreaks.props
+E:\.net\VitualBreaks\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VitualBreaks.props
+E:\.net\VitualBreaks\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VitualBreaks.props
+E:\.net\VitualBreaks\obj\Debug\net6.0\staticwebassets.pack.json
+E:\.net\VitualBreaks\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\.net\VitualBreaks\obj\Debug\net6.0\scopedcss\bundle\VitualBreaks.styles.css
+E:\.net\VitualBreaks\obj\Debug\net6.0\scopedcss\projectbundle\VitualBreaks.bundle.scp.css
+E:\.net\VitualBreaks\obj\Debug\net6.0\VitualBr.C439EBD0.Up2Date
+E:\.net\VitualBreaks\obj\Debug\net6.0\VitualBreaks.dll
+E:\.net\VitualBreaks\obj\Debug\net6.0\refint\VitualBreaks.dll
+E:\.net\VitualBreaks\obj\Debug\net6.0\VitualBreaks.pdb
+E:\.net\VitualBreaks\obj\Debug\net6.0\VitualBreaks.genruntimeconfig.cache
+E:\.net\VitualBreaks\obj\Debug\net6.0\ref\VitualBreaks.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\Humanizer.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\project .net\VitualBreaks\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll

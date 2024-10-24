@@ -1,0 +1,601 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project .net\\VitualBreaks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|d:\\project .net\\vitualbreaks\\wwwroot\\css\\summary.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:wwwroot\\css\\summary.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VitualBreaks\\Migrations\\20240718165433_AddUserModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\Microsoft\\TypeScript\\5.2\\node_modules\\@popperjs\\core\\index.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\project .net\\vitualbreaks\\models\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\views\\summary\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:views\\summary\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\models\\vitualbreakscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:models\\vitualbreakscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\controllers\\summarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:controllers\\summarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\models\\backgroundimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:models\\backgroundimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\models\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:models\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\models\\summaryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:models\\summaryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\wwwroot\\css\\settings.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:wwwroot\\css\\settings.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\wwwroot\\images\\octocat.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:wwwroot\\images\\octocat.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\wwwroot\\images\\mstile-150x150.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:wwwroot\\images\\mstile-150x150.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\wwwroot\\images\\favicon-16x16.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:wwwroot\\images\\favicon-16x16.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\wwwroot\\images\\codercat.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:wwwroot\\images\\codercat.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\wwwroot\\images\\background.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:wwwroot\\images\\background.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\wwwroot\\images\\icons\\microscope.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:wwwroot\\images\\icons\\microscope.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\wwwroot\\images\\icons\\burger.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:wwwroot\\images\\icons\\burger.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\wwwroot\\images\\icons\\coffee-cup.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:wwwroot\\images\\icons\\coffee-cup.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\wwwroot\\images\\favicon-32x32.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:wwwroot\\images\\favicon-32x32.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\wwwroot\\images\\android-chrome-192x192.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:wwwroot\\images\\android-chrome-192x192.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\vitualbreaks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:vitualbreaks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|D:\\project .net\\VitualBreaks\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D0661E0-F0FD-4701-9D93-1B5D78FA89BF}|VitualBreaks.csproj|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "summary.css",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\wwwroot\\css\\summary.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\summary.css",
+              "ToolTip": "D:\\project .net\\VitualBreaks\\wwwroot\\css\\summary.css",
+              "RelativeToolTip": "wwwroot\\css\\summary.css",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvzMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-06T08:31:18.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\project .net\\VitualBreaks\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T17:19:32.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VitualBreaksContext.cs",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\Models\\VitualBreaksContext.cs",
+              "RelativeDocumentMoniker": "Models\\VitualBreaksContext.cs",
+              "ToolTip": "D:\\project .net\\VitualBreaks\\Models\\VitualBreaksContext.cs",
+              "RelativeToolTip": "Models\\VitualBreaksContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:43:06.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\project .net\\VitualBreaks\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:59:35.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\Views\\Settings\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Settings\\Index.cshtml",
+              "ToolTip": "D:\\project .net\\VitualBreaks\\Views\\Settings\\Index.cshtml",
+              "RelativeToolTip": "Views\\Settings\\Index.cshtml",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAgwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T17:13:41.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\Views\\Summary\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Summary\\Index.cshtml",
+              "ToolTip": "D:\\project .net\\VitualBreaks\\Views\\Summary\\Index.cshtml",
+              "RelativeToolTip": "Views\\Summary\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T08:08:43.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SummaryController.cs",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\Controllers\\SummaryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SummaryController.cs",
+              "ToolTip": "D:\\project .net\\VitualBreaks\\Controllers\\SummaryController.cs",
+              "RelativeToolTip": "Controllers\\SummaryController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T08:05:52.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BackgroundImage.cs",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\Models\\BackgroundImage.cs",
+              "RelativeDocumentMoniker": "Models\\BackgroundImage.cs",
+              "ToolTip": "D:\\project .net\\VitualBreaks\\Models\\BackgroundImage.cs",
+              "RelativeToolTip": "Models\\BackgroundImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:43:04.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SettingsViewModel.cs",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\Models\\SettingsViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\SettingsViewModel.cs",
+              "ToolTip": "D:\\project .net\\VitualBreaks\\Models\\SettingsViewModel.cs",
+              "RelativeToolTip": "Models\\SettingsViewModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:14:47.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SummaryViewModel.cs",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\Models\\SummaryViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\SummaryViewModel.cs",
+              "ToolTip": "D:\\project .net\\VitualBreaks\\Models\\SummaryViewModel.cs",
+              "RelativeToolTip": "Models\\SummaryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T18:40:09.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SettingsController.cs",
+              "ToolTip": "D:\\project .net\\VitualBreaks\\Controllers\\SettingsController.cs",
+              "RelativeToolTip": "Controllers\\SettingsController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAwHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:59:30.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\project .net\\VitualBreaks\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:58:34.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\project .net\\VitualBreaks\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T14:39:10.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240718165433_AddUserModel.cs",
+              "DocumentMoniker": "D:\\VitualBreaks\\Migrations\\20240718165433_AddUserModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\VitualBreaks\\Migrations\\20240718165433_AddUserModel.cs",
+              "ToolTip": "D:\\VitualBreaks\\Migrations\\20240718165433_AddUserModel.cs",
+              "RelativeToolTip": "..\\..\\VitualBreaks\\Migrations\\20240718165433_AddUserModel.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T16:54:34.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\project .net\\VitualBreaks\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T19:35:49.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "settings.css",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\wwwroot\\css\\settings.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\settings.css",
+              "ToolTip": "D:\\project .net\\VitualBreaks\\wwwroot\\css\\settings.css",
+              "RelativeToolTip": "wwwroot\\css\\settings.css",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-27T17:33:06.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "octocat.png - PNG [896x896, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\wwwroot\\images\\octocat.png",
+              "RelativeDocumentMoniker": "wwwroot\\images\\octocat.png",
+              "ToolTip": "D:\\VitualBreaks\\wwwroot\\images\\octocat.png - PNG [896x896, 32 bit, PNG]",
+              "RelativeToolTip": "..\\..\\VitualBreaks\\wwwroot\\images\\octocat.png - PNG [896x896, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-15T07:46:17.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "mstile-150x150.png - PNG [270x270, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\wwwroot\\images\\mstile-150x150.png",
+              "RelativeDocumentMoniker": "wwwroot\\images\\mstile-150x150.png",
+              "ToolTip": "D:\\VitualBreaks\\wwwroot\\images\\mstile-150x150.png - PNG [270x270, 32 bit, PNG]",
+              "RelativeToolTip": "..\\..\\VitualBreaks\\wwwroot\\images\\mstile-150x150.png - PNG [270x270, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-15T07:46:18.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "favicon-16x16.png - PNG [16x16, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\wwwroot\\images\\favicon-16x16.png",
+              "RelativeDocumentMoniker": "wwwroot\\images\\favicon-16x16.png",
+              "ToolTip": "D:\\VitualBreaks\\wwwroot\\images\\favicon-16x16.png - PNG [16x16, 32 bit, PNG]",
+              "RelativeToolTip": "..\\..\\VitualBreaks\\wwwroot\\images\\favicon-16x16.png - PNG [16x16, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-15T07:46:20.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "codercat.jpg - Bitmap [896x896, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\wwwroot\\images\\codercat.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\codercat.jpg",
+              "ToolTip": "D:\\VitualBreaks\\wwwroot\\images\\codercat.jpg - Bitmap [896x896, 24 bit, JPG]",
+              "RelativeToolTip": "..\\..\\VitualBreaks\\wwwroot\\images\\codercat.jpg - Bitmap [896x896, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-15T07:46:21.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\project .net\\VitualBreaks\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:16:09.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "background.jpg - Bitmap [2850x1801, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\wwwroot\\images\\background.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\background.jpg",
+              "ToolTip": "D:\\VitualBreaks\\wwwroot\\images\\background.jpg - Bitmap [2850x1801, 24 bit, JPG]",
+              "RelativeToolTip": "..\\..\\VitualBreaks\\wwwroot\\images\\background.jpg - Bitmap [2850x1801, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-27T16:23:08.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "microscope.png - PNG [128x128, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\wwwroot\\images\\icons\\microscope.png",
+              "RelativeDocumentMoniker": "wwwroot\\images\\icons\\microscope.png",
+              "ToolTip": "D:\\VitualBreaks\\wwwroot\\images\\icons\\microscope.png - PNG [128x128, 32 bit, PNG]",
+              "RelativeToolTip": "..\\..\\VitualBreaks\\wwwroot\\images\\icons\\microscope.png - PNG [128x128, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-15T07:46:05.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "burger.png - PNG [128x128, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\wwwroot\\images\\icons\\burger.png",
+              "RelativeDocumentMoniker": "wwwroot\\images\\icons\\burger.png",
+              "ToolTip": "D:\\VitualBreaks\\wwwroot\\images\\icons\\burger.png - PNG [128x128, 32 bit, PNG]",
+              "RelativeToolTip": "..\\..\\VitualBreaks\\wwwroot\\images\\icons\\burger.png - PNG [128x128, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-15T07:46:04.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "coffee-cup.png - PNG [128x128, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\wwwroot\\images\\icons\\coffee-cup.png",
+              "RelativeDocumentMoniker": "wwwroot\\images\\icons\\coffee-cup.png",
+              "ToolTip": "D:\\VitualBreaks\\wwwroot\\images\\icons\\coffee-cup.png - PNG [128x128, 32 bit, PNG]",
+              "RelativeToolTip": "..\\..\\VitualBreaks\\wwwroot\\images\\icons\\coffee-cup.png - PNG [128x128, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-15T07:46:03.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "favicon-32x32.png - PNG [32x32, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\wwwroot\\images\\favicon-32x32.png",
+              "RelativeDocumentMoniker": "wwwroot\\images\\favicon-32x32.png",
+              "ToolTip": "D:\\VitualBreaks\\wwwroot\\images\\favicon-32x32.png - PNG [32x32, 32 bit, PNG]",
+              "RelativeToolTip": "..\\..\\VitualBreaks\\wwwroot\\images\\favicon-32x32.png - PNG [32x32, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-27T15:49:02.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "android-chrome-192x192.png - PNG [192x192, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\wwwroot\\images\\android-chrome-192x192.png",
+              "RelativeDocumentMoniker": "wwwroot\\images\\android-chrome-192x192.png",
+              "ToolTip": "D:\\VitualBreaks\\wwwroot\\images\\android-chrome-192x192.png - PNG [192x192, 32 bit, PNG]",
+              "RelativeToolTip": "..\\..\\VitualBreaks\\wwwroot\\images\\android-chrome-192x192.png - PNG [192x192, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-15T07:46:01.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\project .net\\VitualBreaks\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T17:58:39.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\project .net\\VitualBreaks\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-27T14:48:10.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\project .net\\VitualBreaks\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T17:23:55.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "VitualBreaks.csproj",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\VitualBreaks.csproj",
+              "RelativeDocumentMoniker": "VitualBreaks.csproj",
+              "ToolTip": "D:\\project .net\\VitualBreaks\\VitualBreaks.csproj",
+              "RelativeToolTip": "VitualBreaks.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-06T09:23:05.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\project .net\\VitualBreaks\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T15:15:23.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.d.ts",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\TypeScript\\5.2\\node_modules\\@popperjs\\core\\index.d.ts",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\TypeScript\\5.2\\node_modules\\@popperjs\\core\\index.d.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-27T17:57:43.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "D:\\project .net\\VitualBreaks\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-28T06:41:16.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\project .net\\VitualBreaks\\Models\\Index.cshtml",
+              "RelativeDocumentMoniker": "Models\\Index.cshtml",
+              "ToolTip": "D:\\project .net\\VitualBreaks\\Models\\Index.cshtml",
+              "RelativeToolTip": "Models\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T14:56:52.279Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{797f5b3d-853a-4854-a9f2-c488bac2661b}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

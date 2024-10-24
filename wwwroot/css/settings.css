@@ -1,0 +1,45 @@
+﻿.card.card-break {
+    border-color: #1B1F24;
+    border-radius: 8px;
+    border-width: 2px;
+    box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.8);
+    background-color: #212529;
+    color: #fff;
+    transition: border-color 0.3s ease, background-color 0.3s ease;
+    margin-bottom: 15px; /* Add some space between the cards vertically */
+    max-width: 300px; /* Set a maximum width for the cards */
+}
+
+    .card.card-break:hover {
+        border-color: #4d5053;
+    }
+
+.card-break.selected {
+    border-color: #4d5053;
+    background-color: #373A3E;
+}
+
+.card-break .break-icon {
+    padding: 20px;
+    margin: 0 auto;
+}
+
+    .card-break .break-icon img {
+        width: 100%;
+    }
+
+.card-break .form-control {
+    background-color: #000; /* Màu nền đen cho các ô textbox */
+    color: #fff; /* Màu chữ trắng */
+    border-color: #4d5053;
+}
+
+    .card-break .form-control:focus {
+        background-color: #333; /* Màu nền khi ô textbox được focus */
+        color: #fff; /* Màu chữ trắng */
+        border-color: #4d5053;
+    }
+
+    .card-break .form-control::placeholder {
+        color: #bbb; /* Màu chữ placeholder */
+    }

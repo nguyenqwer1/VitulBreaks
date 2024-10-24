@@ -1,0 +1,118 @@
+﻿@model VirtualBreaks.Models.SettingsViewModel
+@{
+    ViewBag.Title = "Settings";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link rel="stylesheet" href="~/css/settings.css" />
+
+<div class="full-height-container">
+    <div class="bg-white text-center octocat-container">
+        <img src="~/images/octocat.png" class="img-fluid" id="octocat-logo" alt="Octocat Logo" />
+    </div>
+    <div class="container py-5">
+        <div class="row">
+            <div class="col-12 text-white text-center pb-5">
+                <h1>It's @Model.CurrentTime.ToString("HH:mm") Time for a break?</h1>
+            </div>
+        </div>
+
+        <!-- Vòng lặp cho breaks có Duration -->
+        <div class="d-flex flex-wrap justify-content-center text-center pb-5">
+            @foreach (var item in Model.DefaultBreaks.Where(b => b.Duration > 0))
+            {
+                var endTime = Model.CurrentTime.AddMinutes(item.Duration).ToString("HH:mm");
+                <div class="col-12 col-md-6 col-lg-4 d-flex justify-content-center">
+                    <div class="card card-break mb-3 @(item.Selected ? "selected" : "")">
+                        <div class="row g-0">
+                            <div class="col-md-4 break-icon">
+                                <img src="~/images/icons/@(item.Icon).png" alt="@item.Name" />
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title">
+                                        Name: <input type="text" value="@item.Name" class="form-control" onchange="updateBreak(@item.Index)" id="breakName-@item.Index" />
+                                    </h5>
+                                    <p class="card-text">
+                                        Duration: <input type="number" value="@item.Duration" class="form-control" onchange="updateBreak(@item.Index)" id="breakDuration-@item.Index" />
+                                    </p>
+                                    <p class="card-text">
+                                        <small class="text-muted">It will end at @endTime</small>
+                                    </p>
+                                    <button class="btn btn-primary" onclick="selectBreak(@item.Index)">Select</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+
+            <!-- Vòng lặp cho breaks có FixedEndTime -->
+            @foreach (var item in Model.DefaultBreaks.Where(b => b.FixedEndTime.HasValue))
+            {
+                var endTime = Model.CurrentTime.Date.Add(item.FixedEndTime.Value).ToString("HH:mm");
+                <div class="col-12 col-md-6 col-lg-4 d-flex justify-content-center">
+                    <div class="card card-break mb-3 @(item.Selected ? "selected" : "")">
+                        <div class="row g-0">
+                            <div class="col-md-4 break-icon">
+                                <img src="~/images/icons/@(item.Icon).png" alt="@item.Name" />
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title">
+                                        Name: <input type="text" value="@item.Name" class="form-control" onchange="updateBreak(@item.Index)" id="breakName-@item.Index" />
+                                    </h5>
+                                    <p class="card-text">
+                                        Fixed End Time: <input type="time" value="@(item.FixedEndTime.HasValue ? item.FixedEndTime.Value.ToString(@"hh\:mm") : string.Empty)" class="form-control" onchange="updateBreak(@item.Index)" id="breakFixedEndTime-@item.Index" />
+                                    </p>
+                                    <p class="card-text">
+                                        <small class="text-muted">It will end at @endTime</small>
+                                    </p>
+                                    <button class="btn btn-primary" onclick="selectBreak(@item.Index)">Select</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+
+        <div class="row text-center pb-5">
+            <div class="col-12 text-center">
+                <a href="@Url.Action("StartBreak", "Settings", new { index = Model.DefaultBreaks.FindIndex(b => b.Selected) })" class="btn btn-light btn-lg">Start Break</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function updateBreak(index) {
+            var name = document.getElementById(`breakName-${index}`).value;
+            var duration = document.getElementById(`breakDuration-${index}`)?.value || 0;
+            var fixedEndTime = document.getElementById(`breakFixedEndTime-${index}`)?.value || null;
+
+            fetch('/Settings/UpdateBreak', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'RequestVerificationToken': '@Html.AntiForgeryToken()'
+                },
+                body: JSON.stringify({ index: index, name: name, duration: parseInt(duration), fixedEndTime: fixedEndTime })
+            }).then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        console.log('Break updated successfully');
+                    } else {
+                        console.error('Failed to update break:', data.message);
+                    }
+                }).catch(error => {
+                    console.error('Error:', error);
+                });
+        }
+
+        function selectBreak(index) {
+            window.location.href = `@Url.Action("SelectBreak", "Settings")?index=${index}`;
+        }
+    </script>
+}

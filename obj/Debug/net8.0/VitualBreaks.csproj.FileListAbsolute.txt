@@ -1,0 +1,8 @@
+D:\project .net\VitualBreaks\obj\Debug\net8.0\VitualBreaks.csproj.AssemblyReference.cache
+D:\project .net\VitualBreaks\obj\Debug\net8.0\VitualBreaks.GeneratedMSBuildEditorConfig.editorconfig
+D:\project .net\VitualBreaks\obj\Debug\net8.0\VitualBreaks.AssemblyInfoInputs.cache
+D:\project .net\VitualBreaks\obj\Debug\net8.0\VitualBreaks.AssemblyInfo.cs
+D:\project .net\VitualBreaks\obj\Debug\net8.0\VitualBreaks.csproj.CoreCompileInputs.cache
+D:\project .net\VitualBreaks\obj\Debug\net8.0\VitualBreaks.MvcApplicationPartsAssemblyInfo.cache
+D:\project .net\VitualBreaks\obj\Debug\net8.0\VitualBreaks.RazorAssemblyInfo.cache
+D:\project .net\VitualBreaks\obj\Debug\net8.0\VitualBreaks.RazorAssemblyInfo.cs

@@ -1,0 +1,112 @@
+﻿@model VirtualBreaks.Models.SummaryViewModel
+@{
+    ViewBag.Title = "Summary";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var backgroundImagePath = Model.BackgroundImagePath;
+}
+
+<link rel="stylesheet" href="~/css/summary.css" />
+
+<style>
+    .card-qrcode img {
+        max-width: 350px; /* Hoặc bất kỳ kích thước nào bạn muốn */
+        height: auto;
+        margin: 0 auto; /* Trung tâm ảnh */
+    }
+</style>
+
+<div class="full-height-container background-container py-5" style="background-image: url('@backgroundImagePath');">
+    <div class="container">
+        <div class='row row-eq-height'>
+            <div class='col-12 col-md-6 col-lg-4'>
+                <div class='card card-countdown'>
+                    <div class='card-body text-center'>
+                        <h5 class='card-title'>@Model.Name</h5>
+                        <div class="countdown" id="countdown"></div>
+                        <p class='card-text'>Minutes until the break ends</p>
+                    </div>
+                </div>
+            </div>
+            <div class='col-12 col-md-6 col-lg-4'>
+                <div class='card card-qrcode'>
+                    <div class='card-body text-center'>
+                        <h5 class='card-title pb-3'>Scan Me!</h5>
+                        <div class='bg-white py-5'>
+                            <img src='@Url.Action("GenerateQRCode", new { timestamp = Model.Timestamp, name = Model.Name })' alt="QR Code" />
+                        </div>
+                        <p class='card-text pt-3'>Scan this QR code with your smartphone to get a mobile timer page</p>
+                    </div>
+                </div>
+            </div>
+            <div class='col-12 col-md-6 col-lg-4'>
+                <div class='card card-custom'>
+                    <div class='card-body'>
+                        <h5 class='card-title pb-3'>Class will resume at:</h5>
+                        <p class='card-text'>
+                            <strong id="melbourne-time"></strong><br /> Melbourne, Australia
+                        </p>
+                        <p class='card-text'>
+                            <strong id="london-time"></strong><br /> London, United Kingdom
+                        </p>
+                        <p class='card-text'>
+                            <strong id="chicago-time"></strong><br /> Chicago, United States
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-3">
+            <div class="col-12">
+                <form asp-action="UploadBackground" asp-controller="Summary" enctype="multipart/form-data" method="post">
+                    <div class="form-group form-control-file">
+                      
+                        <input type="file" class="form-control-file" id="BackgroundImage" name="BackgroundImage" />
+                        <input type="hidden" asp-for="Timestamp" />
+                        <input type="hidden" asp-for="Name" />
+                    </div>
+                    <button type="submit" class="btn btn-primary">Uploadd</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function updateTimezones(timestamp) {
+            const options = { timeZoneName: 'short', hour: '2-digit', minute: '2-digit', hour12: false };
+            document.getElementById('melbourne-time').innerText = new Date(timestamp).toLocaleString("en-US", { ...options, timeZone: "Australia/Melbourne" });
+            document.getElementById('london-time').innerText = new Date(timestamp).toLocaleString("en-US", { ...options, timeZone: "Europe/London" });
+            document.getElementById('chicago-time').innerText = new Date(timestamp).toLocaleString("en-US", { ...options, timeZone: "America/Chicago" });
+        }
+
+        function startCountdown(timestamp) {
+            const countdownElement = document.getElementById('countdown');
+            const targetTime = timestamp;
+            const now = new Date().getTime();
+
+            function updateCountdown() {
+                const now = new Date().getTime();
+                const distance = targetTime - now;
+
+                if (distance > 0) {
+                    const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                    const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+                    const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+                    countdownElement.innerText = `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+                } else {
+                    clearInterval(interval);
+                    countdownElement.innerText = "00:00:00";
+                }
+            }
+
+            updateCountdown();
+            const interval = setInterval(updateCountdown, 1000); // Update every second (1000 milliseconds)
+        }
+
+        const timestamp = @Model.Timestamp;
+        updateTimezones(timestamp);
+        startCountdown(timestamp);
+    </script>
+}
